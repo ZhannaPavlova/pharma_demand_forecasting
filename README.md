@@ -15,3 +15,6 @@
 
 ## 💻 Стек технологий
 Python (pandas, statsmodels).
+## 📊 Визуализация модели и прогноза
+![График прогноза продаж](images/regression_plot.png)
+
